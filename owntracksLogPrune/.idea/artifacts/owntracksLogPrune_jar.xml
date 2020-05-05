@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="owntracksLogPrune:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/owntracksLogPrune_jar</output-path>
+    <root id="archive" name="owntracksLogPrune.jar">
+      <element id="module-output" name="owntracksLogPrune" />
+    </root>
+  </artifact>
+</component>
