@@ -54,8 +54,8 @@ public class Main {
         ///// COLLECT datesDay /////
         List<String> datesDay = new ArrayList<>();
         for (String line : oldData) {
-            if (line.contains("\"},")) {
-                line = line.substring(line.indexOf("\"expiration\":\"")+14)
+            if (line.contains("\"created_at\":\"")) {
+                line = line.substring(line.indexOf("\"created_at\":\"")+14)
                         .trim();
                 line = line.substring(0, line.indexOf("T")).trim();
                 datesDay.add(line);
@@ -68,12 +68,11 @@ public class Main {
         ///// COLLECT datesTime /////
         List<String> datesTime = new ArrayList<>();
         for (String line : oldData) {
-            if (line.contains("\"},")) {
-                line = line.substring(line.indexOf("\"expiration\":\"")+14)
+            if (line.contains("\"created_at\":\"")) {
+                line = line.substring(line.indexOf("\"created_at\":\"")+14)
                         .trim();
-                line = line.substring(0, line.indexOf("\"},")).trim();
+                line = line.substring(0, line.indexOf("Z\",\"")).trim();
                 line = line.substring(line.indexOf("T")+1).trim();
-                line = line.replace("Z", "");
                 datesTime.add(line);
             } else { if (!toRemove.contains(oldData.indexOf(line)))
             { toRemove.add(oldData.indexOf(line)); } }
