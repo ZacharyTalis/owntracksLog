@@ -2,7 +2,7 @@
 
 This repository, when configured to run at startup on an internet-configured Windows computer, scrapes [GeoJSON](https://geojson.org/) location data uploaded to [Adafruit IO](https://io.adafruit.com/) from an [OwnTracks](https://github.com/owntracks/owntracks) source. This data is then converted into two legible files, *owntracksLog.txt* and *owntracksLog.csv*.
 
-Running at startup is an optional matter of convenience, detailed below since Adafruit IO clears feeds of old data. Manually running *owntracks.bat* at periodic intervals serves the same general purpose.
+Running at startup is an optional matter of convenience, detailed below since Adafruit IO clears its feeds of old data. Manually running *owntracks.bat* at periodic intervals serves the same general purpose.
 
 ## Install instructions:
 
