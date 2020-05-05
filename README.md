@@ -27,4 +27,4 @@ Running at startup is an optional matter of convenience, detailed below since Ad
      - Identification: Username is the same as your Adafruit IO username, password is your **[KEY]**. If given the option, set a Device ID of your choosing.
      - Security: If enabled, disable `TLS`.
      - Parameters: None.
-   - Check to see if you're able to upload location data from your tracker to the Adafruit IO feed page. Run *owntracksLog.bat* whenever you'd like to scrape this data to your computer. Previously-scraped and new data should be accessible via *owntracksLog.txt* (a text file) and *owntracksLog.csv* (a spreadsheet file).
+   - Check to see if you're able to upload location data from your tracker to the Adafruit IO feed page. Run *owntracksLog.bat* whenever you'd like to scrape this data to your computer. Previously-scraped and new data should be accessible via *owntracksLog.txt* (a text file) and *owntracksLog.csv* (a spreadsheet file). Of note, *owntracksLog.csv* only contains Latitude, Longitute, Date, and Time data for each tracked location.
