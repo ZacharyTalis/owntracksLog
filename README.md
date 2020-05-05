@@ -18,6 +18,7 @@ Running at startup is an optional matter of convenience, detailed below since Ad
   curl -H "X-AIO-Key:[KEY]" [URL] >>owntracksLog.txt
   start "[DIR]" owntracksLogPrune.jar
   ```
+3. (cont.)
    - Replace **[DIR]**, **[URL]**, and **[KEY]** with their respective values. Save and close the file.
    - OPTIONAL: Follow [this guide](https://www.freecodecamp.org/news/how-to-change-startup-program-in-windows-7-8-and-10/) to add *owntracksLog.bat* as a startup file on your computer. Remember to use a shortcut to *owntracksLog.bat*, rather than the file itself.
 4. Configure your OwnTracks tracker of choice.
