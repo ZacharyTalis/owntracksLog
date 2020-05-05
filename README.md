@@ -19,7 +19,7 @@ Running at startup is an optional matter of convenience, detailed below since Ad
   start "[DIR]" owntracksLogPrune.jar
   ```
 3. (cont.)
-   - Replace **[DIR]**, **[URL]**, and **[KEY]** with their respective values. Save and close the file.
+   - Replace **[DIR]**, **[URL]**, and **[KEY]** with the values you've collected. Save and close the file.
    - OPTIONAL: Follow [this guide](https://www.freecodecamp.org/news/how-to-change-startup-program-in-windows-7-8-and-10/) to add *owntracksLog.bat* as a startup file on your computer. Remember to use a shortcut to *owntracksLog.bat*, rather than the file itself.
 4. Configure your OwnTracks tracker of choice.
    - Configuration varies from tracker to tracker, so here's a list of all components needed to set up a connection to Adafruit IO. This list is based off the [Android app's](https://github.com/owntracks/android) connection configuration page:
