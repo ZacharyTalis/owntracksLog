@@ -24,13 +24,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7f42c29-aa01-4291-a8e0-042c8926e2a8" name="Default" comment="Renamed com.company to ZacharyTalis.ZacharyTalis" />
+    <list default="true" id="c7f42c29-aa01-4291-a8e0-042c8926e2a8" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;owntracksLogPrune/.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZacharyTalis/ZacharyTalis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZacharyTalis/ZacharyTalis/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YsDFkmuhg0Ca1ed5Gk43fL5gvJ" />
@@ -81,6 +85,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c7f42c29-aa01-4291-a8e0-042c8926e2a8" name="Default" comment="" />
+      <changelist id="" name="Rename com.company to ZacharyTalis.ZacharyTalis" comment="" />
       <created>1583036949284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -93,7 +98,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594868041679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rename com.company to ZacharyTalis.ZacharyTalis">
+      <created>1594868216200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868216200</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rename com.company to ZacharyTalis.ZacharyTalis">
+      <created>1594868261073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868261073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;owntracksLogPrune/.idea/workspace.xml">
+      <created>1594868312597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868312597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Renamed com.company to ZacharyTalis.ZacharyTalis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed com.company to ZacharyTalis.ZacharyTalis" />
+    <MESSAGE value="Rename com.company to ZacharyTalis.ZacharyTalis" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;owntracksLogPrune/.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;owntracksLogPrune/.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594867986862">
@@ -146,14 +174,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588712872123" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594868045377">
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1594868275451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594868045377" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594867937243">
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594868275451" />
+    <state x="807" y="434" key="VCS.ChangelistChooser" timestamp="1594868253585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594867937243" />
+    <state x="807" y="434" key="VCS.ChangelistChooser/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594868253585" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594868263680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594868263680" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594868325380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.2048.1152@0.0.1920.1040" timestamp="1594868325380" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588695149053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
